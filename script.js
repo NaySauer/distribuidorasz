@@ -542,7 +542,7 @@ function renderProductos(){
 
             fila.innerHTML += `
             
-            <div class="col-md-3">
+            <div class="col-6 col-md-3">
 
                 <div class="card producto-card">
 
