@@ -727,7 +727,7 @@ function enviarWhatsApp(){
 
     mensaje += `%0ATotal: $${total}`;
 
-    const telefono = "5491112345678";
+    const telefono = "543438410677";
 
     window.open(`https://wa.me/${telefono}?text=${mensaje}`, "_blank");
 }
