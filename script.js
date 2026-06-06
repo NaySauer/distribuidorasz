@@ -157,7 +157,14 @@ const productos = [
 
     {
         nombre: "Leche Entera",
-        descripcion: "especifica en el pedido",
+        descripcion: "pack x 12",
+        precio: 20400,
+        imagen: "img/leche.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Leche Descremada",
+        descripcion: "pack x 12",
         precio: 20400,
         imagen: "img/leche.png",
         categoria: "Lácteos Tregar"
