@@ -470,7 +470,7 @@ const productos = [
     },
     {
         nombre: "Salchichas OTTO",
-        descripcion: "por caja",
+        descripcion: "Por caja, 20 unidades",
         precio: 920,
         imagen: "img/salchichas.png",
         categoria: "Fiambres: Tremblay y Recreo"
@@ -725,7 +725,7 @@ function enviarWhatsApp(){
         0
     );
 
-    mensaje += `%0ATotal: $${total}`;
+    //mensaje += `%0ATotal: $${total}`;
 
     const telefono = "543438410677";
 
