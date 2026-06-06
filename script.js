@@ -166,7 +166,7 @@ const productos = [
         nombre: "Leche Descremada",
         descripcion: "pack x 12",
         precio: 20400,
-        imagen: "img/leche.png",
+        imagen: "img/lecheDescremada.png",
         categoria: "Lácteos Tregar"
     },
     {
