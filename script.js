@@ -158,142 +158,142 @@ const productos = [
     {
         nombre: "Leche Entera",
         descripcion: "pack x 12",
-        precio: 20400,
+        precio: 21000,
         imagen: "img/leche.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Leche Descremada",
         descripcion: "pack x 12",
-        precio: 20400,
+        precio: 21000,
         imagen: "img/lecheDescremada.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Leche 0 Lactosa",
         descripcion: "pack x 12",
-        precio: 23800,
+        precio: 26650,
         imagen: "img/lecheDeslactosada.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Leche 0 Grasa",
         descripcion: "pack x 12",
-        precio: 19500,
+        precio: 21000,
         imagen: "img/leche0Grasa.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Chocolatada x litro",
         descripcion: "pack x 12",
-        precio: 27200,
+        precio: 31700,
         imagen: "img/chocolatadaLitro.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Chocolatada x 200",
         descripcion: "pack x 12",
-        precio: 16200,
+        precio: 19200,
         imagen: "img/chocolatada200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Arroz con leche",
         descripcion: "especificar en el pedido",
-        precio: 1150,
+        precio: 1220,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 200cc",
-        precio: 2050,
+        precio: 2150,
         imagen: "img/crema200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 350cc",
-        precio: 3350,
+        precio: 3550,
         imagen: "img/crema350.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 190g",
         descripcion: "especificar en el pedido",
-        precio: 1990,
+        precio: 2250,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 280g",
         descripcion: "especificar en el pedido",
-        precio: 2800,
+        precio: 3200,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco",
         descripcion: "especificar en el pedido",
-        precio: 3000,
+        precio: 3290,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Quesos untables",
         descripcion: "especificar en el pedido",
-        precio: 1750,
+        precio: 1890,
         imagen: "img/untables.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 140",
         descripcion: "especificar en el pedido",
-        precio: 1250,
+        precio: 1360,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280",
         descripcion: "especificar en el pedido",
-        precio: 2350,
+        precio: 2500,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso mascarpone",
-        precio: 2400,
+        precio: 2750,
         imagen: "img/mascarpone.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 200",
-        precio: 1450,
+        precio: 1525,
         imagen: "img/dulce200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 400",
-        precio: 2510,
+        precio: 2775,
         imagen: "img/dulce400.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Ricota",
         descripcion: "especificar en el pedido",
-        precio: 2400,
+        precio: 2600,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur cremoso 125",
         descripcion: "especificar pedidos",
-        precio: 600,
+        precio: 700,
         imagen: "img/yogur125.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur con frutas",
         descripcion: "Enteros:Ananá,mango,durazno,frutilla,cereza,arándano <br> Descremados: durazno,frutilla,arándano",
-        precio: 1450,
+        precio: 1530,
         imagen: "img/yogurFrutas.png",
         categoria: "Lácteos Tregar"
     },
@@ -307,21 +307,21 @@ const productos = [
     {
         nombre: "Yogur TOPS",
         descripcion: "Cereal y Granola. <br>Especificar en el pedido.",
-        precio: 1200,
+        precio: 1420,
         imagen: "img/YogurTOPS.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur bebible entero",
         descripcion: "Especificar en el pedido: frutilla,vainilla,durazno,arándano.",
-        precio: 1800,
+        precio: 1890,
         imagen: "img/bebible.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur bebible descremado",
         descripcion: "Especificar en el pedido: frutilla, vainilla, durazno.",
-        precio: 1800,
+        precio: 1890,
         imagen: "img/bebibleDesc.png",
         categoria: "Lácteos Tregar"
     },
@@ -340,14 +340,14 @@ const productos = [
     },
     {
         nombre: "Queso rallado 120gr",
-        precio: 3690,
+        precio: 3950,
         imagen: "img/rallado120.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso rallado 40gr",
         descripcion: "20 unidades",
-        precio: 25750,
+        precio: 27700,
         imagen: "img/rallado40.png",
         categoria: "Lácteos Tregar"
     },
