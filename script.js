@@ -395,7 +395,7 @@ const productos = [
     {
         nombre: "Papas corte americano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 100,
+        precio: 1000,
         imagen: "img/papaAmericano.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
