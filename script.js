@@ -486,7 +486,7 @@ const productos = [
         nombre: "Croutones",
         descripcion: "65g sabor queso crema ciboulette",
         precio: 000,
-        imagen: "img/palitoJamon.png",
+        imagen: "img/croutones.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
