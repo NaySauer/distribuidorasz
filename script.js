@@ -172,7 +172,7 @@ const productos = [
     {
         nombre: "Leche 0 Lactosa",
         descripcion: "pack x 12",
-        precio: 26650,
+        precio: 27000,
         imagen: "img/lecheDeslactosada.png",
         categoria: "Lácteos Tregar"
     },
@@ -186,75 +186,75 @@ const productos = [
     {
         nombre: "Chocolatada x litro",
         descripcion: "pack x 12",
-        precio: 31700,
+        precio: 32000,
         imagen: "img/chocolatadaLitro.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Chocolatada x 200",
         descripcion: "pack x 12",
-        precio: 19200,
+        precio: 19400,
         imagen: "img/chocolatada200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Arroz con leche",
         descripcion: "especificar en el pedido",
-        precio: 1220,
+        precio: 1270,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 200cc",
-        precio: 2150,
+        precio: 2200,
         imagen: "img/crema200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 350cc",
-        precio: 3550,
+        precio: 3620,
         imagen: "img/crema350.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 190g",
         descripcion: "especificar en el pedido",
-        precio: 2250,
+        precio: 2280,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 280g",
         descripcion: "especificar en el pedido",
-        precio: 3200,
+        precio: 3230,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco",
         descripcion: "especificar en el pedido",
-        precio: 3290,
+        precio: 3320,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Quesos untables",
         descripcion: "especificar en el pedido",
-        precio: 1890,
+        precio: 1910,
         imagen: "img/untables.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 140",
         descripcion: "especificar en el pedido",
-        precio: 1360,
+        precio: 1400,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280",
         descripcion: "especificar en el pedido",
-        precio: 2500,
+        precio: 2550,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
@@ -266,13 +266,13 @@ const productos = [
     },
     {
         nombre: "Dulce de leche 200",
-        precio: 1525,
+        precio: 1550,
         imagen: "img/dulce200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 400",
-        precio: 2775,
+        precio: 2800,
         imagen: "img/dulce400.png",
         categoria: "Lácteos Tregar"
     },
@@ -293,7 +293,7 @@ const productos = [
     {
         nombre: "Yogur con frutas",
         descripcion: "Enteros:Ananá,mango,durazno,frutilla,cereza,arándano <br> Descremados: durazno,frutilla,arándano",
-        precio: 1530,
+        precio: 1550,
         imagen: "img/yogurFrutas.png",
         categoria: "Lácteos Tregar"
     },
@@ -340,14 +340,14 @@ const productos = [
     },
     {
         nombre: "Queso rallado 120gr",
-        precio: 3950,
+        precio: 4100,
         imagen: "img/rallado120.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso rallado 40gr",
         descripcion: "20 unidades",
-        precio: 27700,
+        precio: 28500,
         imagen: "img/rallado40.png",
         categoria: "Lácteos Tregar"
     },
@@ -381,118 +381,132 @@ const productos = [
     {
         nombre: "Papas clásicas 65g",
         descripcion: "la caja trae 25 unidades.",
-        precio: 900,
+        precio: 1000,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas clásicas 150g",
         descripcion: "la caja trae 15 unidades.",
-        precio: 1550,
+        precio: 1700,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas corte americano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 900,
+        precio: 100,
         imagen: "img/papaAmericano.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor ketchup",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1150,
+        precio: 1250,
         imagen: "img/papaKetchup.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Jamón Serrano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1150,
+        precio: 1250,
         imagen: "img/papaJamon.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Salame de campo",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1150,
+        precio: 1250,
+        imagen: "img/papaSalame.png",
+        categoria: "Chil Slices: El nombre del snack!"
+    },
+    {
+        nombre: "Papas sabor Cheddar",
+        descripcion: "la caja trae 25 unidades.",
+        precio: 1250,
         imagen: "img/papaSalame.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas Pay",
         descripcion: "140g",
-        precio: 1500,
+        precio: 1650,
         imagen: "img/papaKetchup.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
-        nombre: "Papas tubo",
+        nombre: "Papas tubo 140g",
         descripcion: "Especificar en el pedido: clásica, crema y cebolla, barbacoa.",
-        precio: 3700,
+        precio: 3350,
+        imagen: "img/papasTubo.png",
+        categoria: "Chil Slices: El nombre del snack!"
+    },
+    {
+        nombre: "Papas tubo 90g",
+        descripcion: "Especificar en el pedido: tomate - cebolla y queso.",
+        precio: 2100,
         imagen: "img/papasTubo.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Conitos 4G",
-        descripcion: "Especificar en el pedido: sabor pizza y queso",
-        precio: 1100,
+        descripcion: "Especificar en el pedido: sabor pizza o queso",
+        precio: 1150,
         imagen: "img/conitos.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "LEONACHOS",
-        precio: 1100,
+        precio: 1150,
         imagen: "img/leonachos.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Palito tradicional",
         descripcion: "120g",
-        precio: 700,
+        precio: 750,
         imagen: "img/palitoTradicional.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Palito sabor Cheddar",
         descripcion: "120g",
-        precio: 900,
+        precio: 1000,
         imagen: "img/palitoCheddar.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Palito sabor Jamón serrano",
         descripcion: "120g",
-        precio: 900,
+        precio: 1000,
         imagen: "img/palitoJamon.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Salchichas OTTO",
         descripcion: "por unidad",
-        precio: 1000,
+        precio: 1200,
         imagen: "img/salchichas.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
     {
-        nombre: "Salchichas OTTO",
-        descripcion: "Por caja, 20 unidades",
-        precio: 920,
+        nombre: "Salchichas OTTO x caja",
+        descripcion: "20 unidades",
+        precio: 1100,
         imagen: "img/salchichas.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
     {
         nombre: "Fiambre cocido de pata de cerdo",
         descripcion: "Venta por kilo",
-        precio: 7700,
+        precio: 8000,
         imagen: "img/fiambre.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
     {
         nombre: "Salame milan",
         descripcion: "Venta por kilo",
-        precio: 14000,
+        precio: 14900,
         imagen: "img/milan.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
