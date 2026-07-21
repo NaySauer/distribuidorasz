@@ -483,6 +483,13 @@ const productos = [
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
+        nombre: "Croutones",
+        descripcion: "65g sabor queso crema ciboulette",
+        precio: 000,
+        imagen: "img/palitoJamon.png",
+        categoria: "Chil Slices: El nombre del snack!"
+    },
+    {
         nombre: "Salchichas OTTO",
         descripcion: "por unidad",
         precio: 1200,
