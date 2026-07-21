@@ -424,14 +424,14 @@ const productos = [
         nombre: "Papas sabor Cheddar",
         descripcion: "la caja trae 25 unidades.",
         precio: 1250,
-        imagen: "img/papaSalame.png",
+        imagen: "img/papaCheddar.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas Pay",
         descripcion: "140g",
         precio: 1650,
-        imagen: "img/papaKetchup.png",
+        imagen: "img/papaPay.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
