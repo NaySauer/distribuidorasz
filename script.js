@@ -443,7 +443,7 @@ const productos = [
     },
     {
         nombre: "Papas tubo 90g",
-        descripcion: "Especificar en el pedido: tomate - cebolla y queso.",
+        descripcion: "Especificar en el pedido: tomate o queso.",
         precio: 2100,
         imagen: "img/papasTubo.png",
         categoria: "Chil Slices: El nombre del snack!"
@@ -485,7 +485,7 @@ const productos = [
     {
         nombre: "Croutones",
         descripcion: "65g sabor queso crema ciboulette",
-        precio: 000,
+        precio: 800,
         imagen: "img/croutones.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
