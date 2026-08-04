@@ -382,56 +382,56 @@ const productos = [
     {
         nombre: "Papas clásicas 65g",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1000,
+        precio: 1050,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas clásicas 150g",
         descripcion: "la caja trae 15 unidades.",
-        precio: 1700,
+        precio: 1850,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas corte americano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1000,
+        precio: 1050,
         imagen: "img/papaAmericano.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor ketchup",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1250,
+        precio: 1320,
         imagen: "img/papaKetchup.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Jamón Serrano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1250,
+        precio: 1320,
         imagen: "img/papaJamon.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Salame de campo",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1250,
+        precio: 1320,
         imagen: "img/papaSalame.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Cheddar",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1250,
+        precio: 1320,
         imagen: "img/papaCheddar.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas Pay",
         descripcion: "140g",
-        precio: 1650,
+        precio: 1750,
         imagen: "img/papaPay.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
@@ -452,13 +452,13 @@ const productos = [
     {
         nombre: "Conitos 4G",
         descripcion: "Especificar en el pedido: sabor pizza o queso",
-        precio: 1150,
+        precio: 1250,
         imagen: "img/conitos.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "LEONACHOS",
-        precio: 1150,
+        precio: 1250,
         imagen: "img/leonachos.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
@@ -486,7 +486,7 @@ const productos = [
     {
         nombre: "Croutones",
         descripcion: "65g sabor queso crema ciboulette",
-        precio: 800,
+        precio: 1100,
         imagen: "img/croutones.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
