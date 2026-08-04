@@ -2,100 +2,101 @@ const productos = [
 
     {
         nombre: "Fideos al huevo",
-        precio: 1700,
+        precio: 1760,
         imagen: "img/Fideos_al_huevo.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
 
     {
         nombre: "Tallarínes de semolín",
-        precio: 1990,
+        precio: 2050,
         imagen: "img/fideoSemolin.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Empanadas de hojaldre",
-        precio: 1400,
+        descripcion: "especificar: horno o freir",
+        precio: 1485,
         imagen: "img/empanadas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Empanadas criollas",
         descripcion: "aptas para horno y freir",
-        precio: 1240,
+        precio: 1280,
         imagen: "img/empanadas-criollas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Empanadas copetin",
         descripcion: "24 unidades",
-        precio: 1900,
+        precio: 1920,
         imagen: "img/copetin.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Tapas para pasteles",
         descripcion: "24 unidades",
-        precio: 1750,
+        precio: 1780,
         imagen: "img/pasteles.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Ravioles pasteurizados",
         descripcion: "-4 quesos <br> -Pollo y espinaca <br> -Ricota",
-        precio: 2450,
+        precio: 2490,
         imagen: "img/ravioles.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Ravioles de verdura 2 planchas",
         descripcion: "Estilo caseros, 600gr",
-        precio: 2700,
+        precio: 2800,
         imagen: "img/raviolesVerdura.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Ravioles x kilo",
         descripcion: "-4 quesos <br> -Pollo y espinaca",
-        precio: 4250,
+        precio: 4375,
         imagen: "img/raviolesKilo.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pascualina Hojaldre",
-        precio: 1850,
+        precio: 1900,
         imagen: "img/pascualinaHojaldre.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pascualina Criolla",
-        precio: 1600,
+        precio: 1700,
         imagen: "img/pascualinaCriolla.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pascualina Criolla Oferta",
-        precio: 2050,
+        precio: 2125,
         imagen: "img/pascualinaOferta.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Ñoquis de semolín",
-        precio: 1900,
+        precio: 1950,
         imagen: "img/ñoquis.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Capellettis",
         descripcion: "-4 quesos <br> -Pollo y espinaca",
-        precio: 2450,
+        precio: 2490,
         imagen: "img/capellettis.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Sorrentinos",
         descripcion: "de jamón y queso",
-        precio: 3350,
+        precio: 3440,
         imagen: "img/sorrentinos.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
@@ -108,28 +109,28 @@ const productos = [
     },
     {
         nombre: "Pan Mil semillas",
-        precio: 3310,
+        precio: 3410,
         imagen: "img/panSemillas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pan Lactal y Doble Salvado",
         descripcion: "especificar en el pedido",
-        precio: 2100,
+        precio: 2160,
         imagen: "img/panLactal.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pre-pizzas",
         descripcion: "dobles",
-        precio: 2550,
+        precio: 2620,
         imagen: "img/pizza.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Pan para panchos",
         descripcion: "6 unidades",
-        precio: 1600,
+        precio: 1650,
         imagen: "img/panchos.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
@@ -143,14 +144,14 @@ const productos = [
     {
         nombre: "Pan para hamburguesas",
         descripcion: "6 unidades",
-        precio: 1600,
+        precio: 1650,
         imagen: "img/hamburguesas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
         nombre: "Talitas",
         descripcion: "especificar en el pedido",
-        precio: 900,
+        precio: 1065,
         imagen: "img/talitas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
