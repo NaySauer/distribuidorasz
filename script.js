@@ -380,6 +380,13 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
+        nombre: "NUEVO",
+        descripcion: "Snack de calabaza.",
+        precio: 2000,
+        imagen: "img/snack.png",
+        categoria: "Chil Slices: El nombre del snack!"
+    },
+    {
         nombre: "Papas clásicas 65g",
         descripcion: "la caja trae 25 unidades.",
         precio: 1050,
