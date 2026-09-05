@@ -464,7 +464,7 @@ const productos = [
         nombre: "Papas tubo 90g",
         descripcion: "Especificar en el pedido: tomate o queso.",
         precio: 2100,
-        imagen: "img/papasTubo.png",
+        imagen: "img/tubo90.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
