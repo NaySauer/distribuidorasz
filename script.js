@@ -14,8 +14,13 @@ const productos = [
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Empanadas de hojaldre",
-        descripcion: "especificar: horno o freir",
+        nombre: "Empanadas de hojaldre HORNO",
+        precio: 1485,
+        imagen: "img/empanadas.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+     {
+        nombre: "Empanadas de hojaldre FREIR",
         precio: 1485,
         imagen: "img/empanadas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
@@ -150,7 +155,7 @@ const productos = [
     },
     {
         nombre: "Talitas",
-        descripcion: "especificar en el pedido",
+        descripcion: "especificar sabor en el pedido",
         precio: 1065,
         imagen: "img/talitas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
@@ -201,40 +206,40 @@ const productos = [
     {
         nombre: "Arroz con leche",
         descripcion: "especificar en el pedido",
-        precio: 1270,
+        precio: 1350,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 200cc",
-        precio: 2200,
+        precio: 2250,
         imagen: "img/crema200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Crema 350cc",
-        precio: 3620,
+        precio: 3660,
         imagen: "img/crema350.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 190g",
         descripcion: "especificar en el pedido",
-        precio: 2280,
+        precio: 2295,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema 280g",
         descripcion: "especificar en el pedido",
-        precio: 3230,
+        precio: 3260,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco",
         descripcion: "especificar en el pedido",
-        precio: 3320,
+        precio: 3360,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
@@ -248,60 +253,60 @@ const productos = [
     {
         nombre: "Yogur natural 140",
         descripcion: "especificar en el pedido",
-        precio: 1400,
+        precio: 1450,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280",
         descripcion: "especificar en el pedido",
-        precio: 2550,
+        precio: 2610,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso mascarpone",
-        precio: 2750,
+        precio: 2770,
         imagen: "img/mascarpone.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 200",
-        precio: 1550,
+        precio: 1560,
         imagen: "img/dulce200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 400",
-        precio: 2800,
+        precio: 2830,
         imagen: "img/dulce400.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Ricota",
         descripcion: "especificar en el pedido",
-        precio: 2600,
+        precio: 2650,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur cremoso 125",
         descripcion: "especificar pedidos",
-        precio: 700,
+        precio: 735,
         imagen: "img/yogur125.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur con frutas",
         descripcion: "Enteros:Ananá,mango,durazno,frutilla,cereza,arándano <br> Descremados: durazno,frutilla,arándano",
-        precio: 1550,
+        precio: 1590,
         imagen: "img/yogurFrutas.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur Firme",
         descripcion: "Frutilla y Vainilla <br>Especificar en el pedido.",
-        precio: 920,
+        precio: 1040,
         imagen: "img/Firme.png",
         categoria: "Lácteos Tregar"
     },
@@ -329,14 +334,20 @@ const productos = [
     {
         nombre: "Crema Chantilly",
         descripcion: "pedido con anticipación",
-        precio: 7300,
+        precio: 7600,
         imagen: "img/chantilly.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Manteca 100gr",
-        precio: 1600,
+        precio: 1650,
         imagen: "img/manteca.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Manteca 200gr",
+        precio: 3300,
+        imagen: "img/manteca200.png",
         categoria: "Lácteos Tregar"
     },
     {
@@ -348,7 +359,7 @@ const productos = [
     {
         nombre: "Queso rallado 40gr",
         descripcion: "20 unidades",
-        precio: 28500,
+        precio: 29300,
         imagen: "img/rallado40.png",
         categoria: "Lácteos Tregar"
     },
@@ -535,7 +546,7 @@ const productos = [
     {
         nombre: "Queso Mozzarella",
         descripcion: "Venta por kilo",
-        precio: 10,
+        precio: 11000,
         imagen: "img/mozza.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
