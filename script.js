@@ -47,22 +47,54 @@ const productos = [
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Ravioles pasteurizados",
-        descripcion: "-4 quesos <br> -Pollo y espinaca <br> -Ricota",
+        nombre: "Ravioles pasteurizados de 4 QUESOS.",
+        descripcion: "500g",
         precio: 2490,
         imagen: "img/ravioles.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Ravioles de verdura 2 planchas",
+        nombre: "Ravioles pasteurizados de Pollo y Espinaca.",
+        descripcion: "500g",
+        precio: 2490,
+        imagen: "img/ravioles.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Ravioles pasteurizados de Ricota",
+        descripcion: "500g",
+        precio: 2490,
+        imagen: "img/ravioles.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Ravioles pasteurizados de Carne y Espinaca.",
+        descripcion: "500g",
+        precio: 2490,
+        imagen: "img/ravioles.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Ravioles de verdura",
         descripcion: "Estilo caseros, 600gr",
         precio: 2800,
         imagen: "img/raviolesVerdura.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Ravioles x kilo",
-        descripcion: "-4 quesos <br> -Pollo y espinaca",
+        nombre: "Ravioles x kilo- Pollo y Espinaca.",
+        precio: 4375,
+        imagen: "img/raviolesKilo.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Ravioles x kilo- Carne y Espinaca.",
+        precio: 4375,
+        imagen: "img/raviolesKilo.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Ravioles x kilo- 4 QUESOS.",
         precio: 4375,
         imagen: "img/raviolesKilo.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
@@ -92,8 +124,13 @@ const productos = [
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Capellettis",
-        descripcion: "-4 quesos <br> -Pollo y espinaca",
+        nombre: "Capellettis 4 QUESOS",
+        precio: 2490,
+        imagen: "img/capellettis.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Capellettis Pollo y Espinaca.",
         precio: 2490,
         imagen: "img/capellettis.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
@@ -119,8 +156,13 @@ const productos = [
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
-        nombre: "Pan Lactal y Doble Salvado",
-        descripcion: "especificar en el pedido",
+        nombre: "Pan Lactal",
+        precio: 2160,
+        imagen: "img/panLactal.png",
+        categoria: "Pastas Quiero!: El mejor hojaldre del país"
+    },
+    {
+        nombre: "Pan Doble Salvado",
         precio: 2160,
         imagen: "img/panLactal.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
@@ -155,12 +197,11 @@ const productos = [
     },
     {
         nombre: "Talitas",
-        descripcion: "especificar sabor en el pedido",
+        descripcion: "mix de semillas",
         precio: 1065,
         imagen: "img/talitas.png",
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
-
     {
         nombre: "Leche Entera",
         descripcion: "pack x 12",
@@ -204,8 +245,13 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Arroz con leche",
-        descripcion: "especificar en el pedido",
+        nombre: "Arroz con leche clásico",
+        precio: 1350,
+        imagen: "img/ArrozconLeche.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Arroz con leche con dulce de leche",
         precio: 1350,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
@@ -223,22 +269,41 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Queso crema 190g",
-        descripcion: "especificar en el pedido",
+        nombre: "Queso crema CLÁSICO",
+        descripcion: "190g.",
         precio: 2295,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Queso crema 280g",
-        descripcion: "especificar en el pedido",
+        nombre: "Queso crema LIGTH",
+        descripcion: "190g.",
+        precio: 2295,
+        imagen: "img/quesoCrema190.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Queso crema CLÁSICO 280",
+        descripcion: "280g",
         precio: 3260,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Queso blanco",
-        descripcion: "especificar en el pedido",
+        nombre: "Queso crema LIGTH 280",
+        precio: 3260,
+        imagen: "img/quesoCrema280.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Queso blanco clásico",
+        precio: 3360,
+        imagen: "img/quesoBlanco.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Queso blanco ligth",
+        descripcion: "sin sellos.",
         precio: 3360,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
@@ -251,15 +316,29 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Yogur natural 140",
-        descripcion: "especificar en el pedido",
+        nombre: "Yogur natural 140 END",
+        descripcion: "endulzado.",
         precio: 1450,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Yogur natural 280",
-        descripcion: "especificar en el pedido",
+        nombre: "Yogur natural 140 S/A",
+        descripcion: "sin azucar.",
+        precio: 1450,
+        imagen: "img/natural140.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Yogur natural 280 END",
+        descripcion: "endulzado.",
+        precio: 2610,
+        imagen: "img/natural280.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Yogur natural 280 S/A",
+        descripcion: "sin azucar.",
         precio: 2610,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
@@ -283,8 +362,13 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Ricota",
-        descripcion: "especificar en el pedido",
+        nombre: "Ricota entera",
+        precio: 2650,
+        imagen: "img/ricota.png",
+        categoria: "Lácteos Tregar"
+    },
+     {
+        nombre: "Ricota magra.",
         precio: 2650,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
@@ -311,8 +395,13 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Yogur TOPS",
-        descripcion: "Cereal y Granola. <br>Especificar en el pedido.",
+        nombre: "Yogur con granola.",
+        precio: 1420,
+        imagen: "img/YogurTOPS.png",
+        categoria: "Lácteos Tregar"
+    },
+     {
+        nombre: "Yogur con cereal",
         precio: 1420,
         imagen: "img/YogurTOPS.png",
         categoria: "Lácteos Tregar"
