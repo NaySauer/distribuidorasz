@@ -233,7 +233,7 @@ const productos = [
     {
         nombre: "Chocolatada x litro",
         descripcion: "pack x 12",
-        precio: 32000,
+        precio: 29500,
         imagen: "img/chocolatadaLitro.png",
         categoria: "Lácteos Tregar"
     },
@@ -285,33 +285,33 @@ const productos = [
     {
         nombre: "Queso crema CLÁSICO 280",
         descripcion: "280g",
-        precio: 3260,
+        precio: 3290,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema LIGTH 280",
-        precio: 3260,
+        precio: 3290,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco clásico",
-        precio: 3360,
+        precio: 3400,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco ligth",
         descripcion: "sin sellos.",
-        precio: 3360,
+        precio: 3400,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Quesos untables",
         descripcion: "especificar en el pedido",
-        precio: 1910,
+        precio: 1950,
         imagen: "img/untables.png",
         categoria: "Lácteos Tregar"
     },
@@ -332,14 +332,14 @@ const productos = [
     {
         nombre: "Yogur natural 280 END",
         descripcion: "endulzado.",
-        precio: 2610,
+        precio: 2650,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280 S/A",
         descripcion: "sin azucar.",
-        precio: 2610,
+        precio: 2650,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
@@ -363,34 +363,34 @@ const productos = [
     },
     {
         nombre: "Ricota entera",
-        precio: 2650,
+        precio: 2690,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
      {
         nombre: "Ricota magra.",
-        precio: 2650,
+        precio: 2690,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur cremoso 125",
         descripcion: "especificar pedidos",
-        precio: 735,
+        precio: 750,
         imagen: "img/yogur125.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur con frutas",
         descripcion: "Enteros:Ananá,mango,durazno,frutilla,cereza,arándano <br> Descremados: durazno,frutilla,arándano",
-        precio: 1590,
+        precio: 1600,
         imagen: "img/yogurFrutas.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur Firme",
         descripcion: "Frutilla y Vainilla <br>Especificar en el pedido.",
-        precio: 1040,
+        precio: 1060,
         imagen: "img/Firme.png",
         categoria: "Lácteos Tregar"
     },
@@ -441,7 +441,7 @@ const productos = [
     },
     {
         nombre: "Queso rallado 120gr",
-        precio: 4100,
+        precio: 4180,
         imagen: "img/rallado120.png",
         categoria: "Lácteos Tregar"
     },
@@ -480,78 +480,71 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "NUEVO",
-        descripcion: "Snack de calabaza.",
-        precio: 2000,
-        imagen: "img/snack.png",
-        categoria: "Chil Slices: El nombre del snack!"
-    },
-    {
         nombre: "Papas clásicas 65g",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1050,
+        precio: 1100,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas clásicas 150g",
         descripcion: "la caja trae 15 unidades.",
-        precio: 1850,
+        precio: 2100,
         imagen: "img/papaClasica.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas corte americano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1050,
+        precio: 1100,
         imagen: "img/papaAmericano.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor ketchup",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1320,
+        precio: 1400,
         imagen: "img/papaKetchup.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Jamón Serrano",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1320,
+        precio: 1400,
         imagen: "img/papaJamon.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Salame de campo",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1320,
+        precio: 1400,
         imagen: "img/papaSalame.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas sabor Cheddar",
         descripcion: "la caja trae 25 unidades.",
-        precio: 1320,
+        precio: 1400,
         imagen: "img/papaCheddar.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas Pay",
         descripcion: "140g",
-        precio: 1750,
+        precio: 2100,
         imagen: "img/papaPay.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas tubo 140g",
-        descripcion: "Especificar en el pedido: clásica, crema y cebolla, barbacoa.",
+        descripcion: "SOLO BARBACOA EN STOCK",
         precio: 3350,
         imagen: "img/papasTubo.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
         nombre: "Papas tubo 90g",
-        descripcion: "Especificar en el pedido: tomate o queso.",
+        descripcion: "SIN STOCK",
         precio: 2100,
         imagen: "img/tubo90.png",
         categoria: "Chil Slices: El nombre del snack!"
@@ -559,14 +552,8 @@ const productos = [
     {
         nombre: "Conitos 4G",
         descripcion: "Especificar en el pedido: sabor pizza o queso",
-        precio: 1250,
+        precio: 1300,
         imagen: "img/conitos.png",
-        categoria: "Chil Slices: El nombre del snack!"
-    },
-    {
-        nombre: "LEONACHOS",
-        precio: 1250,
-        imagen: "img/leonachos.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
     {
@@ -593,7 +580,7 @@ const productos = [
     {
         nombre: "Croutones",
         descripcion: "65g sabor queso crema ciboulette",
-        precio: 1100,
+        precio: 1200,
         imagen: "img/croutones.png",
         categoria: "Chil Slices: El nombre del snack!"
     },
@@ -630,13 +617,6 @@ const productos = [
         descripcion: "Venta por kilo",
         precio: 14500,
         imagen: "img/salamin.png",
-        categoria: "Fiambres: Tremblay y Recreo"
-    },
-    {
-        nombre: "Queso Mozzarella",
-        descripcion: "Venta por kilo",
-        precio: 11000,
-        imagen: "img/mozza.png",
         categoria: "Fiambres: Tremblay y Recreo"
     },
 
