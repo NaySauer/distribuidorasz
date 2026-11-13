@@ -203,6 +203,13 @@ const productos = [
         categoria: "Pastas Quiero!: El mejor hojaldre del país"
     },
     {
+        nombre: "Yogur bebible NATURAL",
+        descripcion: "sin azucar",
+        precio: 2000,
+        imagen: "img/bebibleDesc.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
         nombre: "Leche Entera",
         descripcion: "pack x 12",
         precio: 21000,
@@ -219,7 +226,7 @@ const productos = [
     {
         nombre: "Leche 0 Lactosa",
         descripcion: "pack x 12",
-        precio: 27000,
+        precio: 24000,
         imagen: "img/lecheDeslactosada.png",
         categoria: "Lácteos Tregar"
     },
@@ -246,13 +253,13 @@ const productos = [
     },
     {
         nombre: "Arroz con leche clásico",
-        precio: 1350,
+        precio: 1450,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Arroz con leche con dulce de leche",
-        precio: 1350,
+        precio: 1450,
         imagen: "img/ArrozconLeche.png",
         categoria: "Lácteos Tregar"
     },
@@ -271,112 +278,112 @@ const productos = [
     {
         nombre: "Queso crema CLÁSICO",
         descripcion: "190g.",
-        precio: 2295,
+        precio: 2450,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema LIGTH",
         descripcion: "190g.",
-        precio: 2295,
+        precio: 2450,
         imagen: "img/quesoCrema190.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema CLÁSICO 280",
         descripcion: "280g",
-        precio: 3290,
+        precio: 3490,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso crema LIGTH 280",
-        precio: 3290,
+        precio: 3490,
         imagen: "img/quesoCrema280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco clásico",
-        precio: 3400,
+        precio: 3590,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso blanco ligth",
         descripcion: "sin sellos.",
-        precio: 3400,
+        precio: 3590,
         imagen: "img/quesoBlanco.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Quesos untables",
         descripcion: "especificar en el pedido",
-        precio: 1950,
+        precio: 2050,
         imagen: "img/untables.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 140 END",
         descripcion: "endulzado.",
-        precio: 1450,
+        precio: 1550,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 140 S/A",
         descripcion: "sin azucar.",
-        precio: 1450,
+        precio: 1550,
         imagen: "img/natural140.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280 END",
         descripcion: "endulzado.",
-        precio: 2650,
+        precio: 2790,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur natural 280 S/A",
         descripcion: "sin azucar.",
-        precio: 2650,
+        precio: 2790,
         imagen: "img/natural280.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Queso mascarpone",
-        precio: 2770,
+        precio: 2950,
         imagen: "img/mascarpone.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 200",
-        precio: 1560,
+        precio: 1690,
         imagen: "img/dulce200.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Dulce de leche 400",
-        precio: 2830,
+        precio: 2990,
         imagen: "img/dulce400.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Ricota entera",
-        precio: 2690,
+        precio: 2800,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
      {
         nombre: "Ricota magra.",
-        precio: 2690,
+        precio: 2800,
         imagen: "img/ricota.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur cremoso 125",
         descripcion: "especificar pedidos",
-        precio: 750,
+        precio: 790,
         imagen: "img/yogur125.png",
         categoria: "Lácteos Tregar"
     },
@@ -388,35 +395,56 @@ const productos = [
         categoria: "Lácteos Tregar"
     },
     {
-        nombre: "Yogur Firme",
-        descripcion: "Frutilla y Vainilla <br>Especificar en el pedido.",
-        precio: 1060,
+        nombre: "Yogur Firme vainilla",
+        descripcion: "Parcialmente descremado, endulzado, 170g.",
+        precio: 1160,
+        imagen: "img/Firme.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Yogur Firme frutilla",
+        descripcion: "Parcialmente descremado, endulzado, 170g",
+        precio: 1160,
+        imagen: "img/Firme.png",
+        categoria: "Lácteos Tregar"
+    },
+     {
+        nombre: "Yogur Firme Light frutilla",
+        descripcion: "Parcialmente descremado, dietético, libre de gluten.",
+        precio: 1160,
+        imagen: "img/Firme.png",
+        categoria: "Lácteos Tregar"
+    },
+    {
+        nombre: "Yogur Firme Light vainilla",
+        descripcion: "Parcialmente descremado, dietético, libre de gluten.",
+        precio: 1160,
         imagen: "img/Firme.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur con granola.",
-        precio: 1420,
+        precio: 1720,
         imagen: "img/YogurTOPS.png",
         categoria: "Lácteos Tregar"
     },
      {
         nombre: "Yogur con cereal",
-        precio: 1420,
+        precio: 1720,
         imagen: "img/YogurTOPS.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur bebible entero",
         descripcion: "Especificar en el pedido: frutilla,vainilla,durazno,arándano.",
-        precio: 1890,
+        precio: 1950,
         imagen: "img/bebible.png",
         categoria: "Lácteos Tregar"
     },
     {
         nombre: "Yogur bebible descremado",
         descripcion: "Especificar en el pedido: frutilla, vainilla, durazno.",
-        precio: 1890,
+        precio: 1950,
         imagen: "img/bebibleDesc.png",
         categoria: "Lácteos Tregar"
     },
