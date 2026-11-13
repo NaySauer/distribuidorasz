@@ -206,7 +206,7 @@ const productos = [
         nombre: "Yogur bebible NATURAL",
         descripcion: "sin azucar",
         precio: 2000,
-        imagen: "img/bebibleDesc.png",
+        imagen: "img/bebibleNatural.png",
         categoria: "Lácteos Tregar"
     },
     {
